@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Elemental Painting datapack has been reloaded","bold":true,"color":"white"}]
